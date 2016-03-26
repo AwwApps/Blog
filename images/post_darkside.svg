@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="2988.299px" height="1497.15px" viewBox="0 0 2988.299 1497.15" enable-background="new 0 0 2988.299 1497.15"
+	 xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="451.323" y="155.015" width="1976" height="1228.485"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	
+		<rect x="446.323" y="151.906" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" width="1986" height="1234.703"/>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_3_" d="M1562.761,655.019l-0.439,0.739H2966.98l-0.355-0.852l-410.928,414.563l0.484-0.131l-898.179-238.563
+			l0.311,0.245L1562.761,655.019z M1561.884,655.497l95.551,176l0.103,0.189l0.208,0.055l898.179,238.563l0.28,0.074l0.204-0.205
+			l410.927-414.563l0.845-0.852h-1.2H1562.323h-0.84L1561.884,655.497z M1541.483,634.758H2988.18v455.621H1541.483V634.758z"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_4_)">
+		<defs>
+			<polygon id="SVGID_5_" points="1562.323,655.258 1657.874,831.258 2556.053,1069.821 2966.98,655.258 			"/>
+		</defs>
+		<use xlink:href="#SVGID_5_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="#7D7D7D"/>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_6_)" fill-rule="evenodd" clip-rule="evenodd" fill="#4FFFCA" points="1562.323,655.258 
+			1657.874,831.258 2556.053,1069.821 2966.98,655.258 		"/>
+	</g>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_7_" d="M1562.761,655.019l-0.439,0.739H2966.98l-0.355-0.852L2741.49,882.034l0.408-0.145l-1121.687-120.6
+			l0.386,0.259L1562.761,655.019z M1561.884,655.497l57.834,106.528l0.125,0.23l0.261,0.029l1121.688,120.599l0.239,0.026
+			l0.169-0.171l225.136-227.128l0.845-0.852h-1.2H1562.323h-0.84L1561.884,655.497z M1541.483,634.758H2988.18v268.151H1541.483
+			V634.758z"/>
+	</defs>
+	<clipPath id="SVGID_8_">
+		<use xlink:href="#SVGID_7_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_8_)">
+		<defs>
+			<polygon id="SVGID_9_" points="1562.323,655.258 1620.157,761.786 2741.844,882.386 2966.98,655.258 			"/>
+		</defs>
+		<use xlink:href="#SVGID_9_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="#8F4BFF"/>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_10_)" fill-rule="evenodd" clip-rule="evenodd" fill="#8F4BFF" points="1562.323,655.258 
+			1620.157,761.786 2741.844,882.386 2966.98,655.258 		"/>
+	</g>
+</g>
+<g>
+	<defs>
+		<polygon id="SVGID_11_" points="1439.052,435.258 1844.781,1128.351 1033.323,1128.351 		"/>
+	</defs>
+	<clipPath id="SVGID_12_">
+		<use xlink:href="#SVGID_11_"  overflow="visible"/>
+	</clipPath>
+	<polygon clip-path="url(#SVGID_12_)" fill="none" stroke="#F1F1F8" stroke-width="28" stroke-miterlimit="10" points="
+		1439.052,435.258 1844.782,1128.351 1033.323,1128.351 	"/>
+</g>
+<line fill="none" stroke="#F5F5F5" stroke-width="10" stroke-linecap="square" stroke-miterlimit="10" x1="262.323" y1="1016.754" x2="1265.192" y2="742.628"/>
+<g>
+</g>
+<g>
+	<defs>
+		<polygon id="SVGID_13_" points="1572.323,655.258 1630.157,761.786 2751.844,882.386 2976.98,655.258 		"/>
+	</defs>
+	<clipPath id="SVGID_14_">
+		<use xlink:href="#SVGID_13_"  overflow="visible"/>
+	</clipPath>
+	<polygon clip-path="url(#SVGID_14_)" fill="none" points="1572.323,655.258 1630.157,761.786 2751.844,882.386 2976.98,655.258 	
+		"/>
+</g>
+<line fill="#FFFFFF" stroke="#000000" stroke-width="10" stroke-linecap="square" stroke-miterlimit="10" x1="262.323" y1="1019.449" x2="451.323" y2="967.787"/>
+<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="1268.4448" y1="738.601" x2="1404.2263" y2="738.601">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+</linearGradient>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_15_)" points="1412.099,784.497 1268.445,751.612 
+	1268.445,733.644 1414.998,692.705 "/>
+</svg>

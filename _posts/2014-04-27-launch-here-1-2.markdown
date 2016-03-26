@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Launch Here 1.2"
+date: 2014-04-27 02:24
+author: Bernd
+comments: true
+categories:
+- Launch Here
+- Release Note
+- iBeacon
+---
+
+
+
+We are very excited to announce Launch Here 1.2. It's an update packed with new features. Our main focus was to reduce the steps involved to setup iBeacons and make the notification system more powerful.
+
+![Launch Here 1.2 Teaser]({{ site.url }}/images/post_launch-here_1-2_landscape.svg)
+
+### Auto Detect
+
+Auto Detect! This enables you to add iBeacons of known vendors without entering long iBeacon IDs manually. However please note that only a short list of known vendors is currently supported – it's a first step.
+
+* Estimotes
+* Air Locate App
+* Radius Networks (experimental)
+
+Launch Here aims to work seamlessly across all iBeacon vendors. If the detection doesn't work for your iBeacon you can still add it manually, too.
+
+<div class="comment" style="margin-bottom:30px;">
+If you like to help adding more iBeacons to auto detect please share your UUIDs with us <a href="https://docs.google.com/forms/d/1dA0flF9OYeAeGSQUF9yWp4KS3v62TnZGGBZ1tnsiSlo/viewform?usp=send_form">here</a>. We'd appreciate it.
+</div>
+
+![Launch Here 1.2 Screenshots]({{ site.url }}/images/post_launch-here_1-2_screenshots.png)
+
+### Trigger Distance
+
+It is now possible to adjust the trigger radius for each iBeacon. To avoid unintended use and uncontrolled notification triggers this is limited to distances ranging from **0.1m** to **5m**.
+
+
+### All new Features
+
+* **Auto Detect** for supported beacon vendors – currently: Estimote, Radius Networks, Air Locate iOS App
+* **Distance slider** to adjust the radius for app shortcut notifications
+* **Interface** Tightened up layout, landscape mode, new transitions
+* **Notification system** improved – less flickering
+* **App/action selection** New picker (it turned out using a data picker on a scrollable table view is a terrible idea. Sorry for that)
+* **Preset App List** – added [Day One](http://dayoneapp.com)
+
+Launch Here 1.2 is a free update. Get it on the App Store now and let us know what you think about it. Find more information about the app [here](http://launchhere.awwapps.com).

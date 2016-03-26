@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Launch Here (Placed) 1.1"
+date: 2014-04-07 00:11
+author: Bernd
+comments: true
+categories:
+- Launch Here
+- Release Note
+- iBeacon
+---
+
+![Launch Here 1.1]({{ site.url }}/images/post_launch-here_1-1.svg)
+
+First of all a big thank you to everybody who downloaded ~~Placed~~ **[Launch Here](http://launchhere.awwapps.com)** recently. We did feel like touching a promising idea when we released the app but really thought of the current state being rather a crazy niche experiment than something that might appeal to a broader range of people. Well, we were wrong. Looks like iBeacon is *a thing* at moment and people are craving for good use cases. Happy to help.
+
+### New Features and Updates
+
+Going forward we'll stay committed to the original idea, but focus on making the setup process and usage more accessible. Here's the news for Version 1.1.
+
+
+* **New Name!** We had to re-name the app. It's now called Launch Here. If this caused any confusion we feel sorry, we didn't mean to.
+* **On/Off Switch** To provide an easy way to control notifications we added a simple On/Off switch – it's important to us that the user stays in full control all the time.
+* **Auto Beacon Validation** We added little indicators to the iBeacon identifier fields. They show if the iBeacon currently being entered is around or not. This makes the setup a bit less error-prone.
+* **One tap iBeacon Entry** We added a "Paste" button that appears when a text entry is selected and empty. ☆ Goodie ☆ Besides the obvious paste functionality for a single field this can also be used to populate all three iBeacon identifiers at once. It will recognize the UUID, Major ID, Minor ID in your clipboard if they where separated by lines in the copied text.
+* **New Icon** A small update to be inline with our other iBeacon app [Travel Radar](http://travelradar.awwapps.com). If you see both apps next to each other on your lock screen you will feel warm and fuzzy now.
+
+![Launch Here 1.1 Screenshots]({{ site.url }}/images/post_launch-here_1-1_Screenshots.jpg)
+
+Launch Here Version 1.1 is a free update, available on the App Store now. Find more information about the app [here](http://launchhere.awwapps.com).

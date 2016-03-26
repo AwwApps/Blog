@@ -1,0 +1,35 @@
+---
+layout: post
+title: "aWatch"
+date: 2013-11-03 02:33
+comments: true
+categories: 
+published: false
+---
+
+
+Light, fashionable, unobtrusive, connected, robust, private, immediate, fun, wearable, comfortable, adaptable, flexible
+
+... there you have it. Some attributes we'd like to see in a future wearable device, let's call it the iWatch or awWatch or whatever. And here are some attributes we don't like to see at a device that's potentially more in your face then a pocket piece.
+
+all-in one, multi-touch, just like the big one, diamonds, jewelry, rigid, massive, flat.
+
+
+
+Notifications
+
+* people hate
+* get them out of your way
+
+
+
+not an own eco system, but integrated into the existing one. minimal setup
+
+
+If somebody told us to create a watch, here's what we would do. It would come in different sizes and shapes, but across all those it would share two core attributes. The display as primary mean for communication from watch and a movement sensor to recognize and interaction. The display would have a resolution of exactly ONE pixel but capable of displays up to 16bit of different colors in all possible light conditions and to animate colors and brightness with 60Hz or more.
+
+Goal. Adding another layer of access to relevant digital data.
+
+Problems. Too many devices with bright screens attracting too much attention. 
+
+Mean. It doesn't replicate existing functionality. 
