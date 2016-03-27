@@ -40,7 +40,7 @@ Nexts provides you with a simple alternative to get started with iBeacons enabli
 
 You will notice that the kitchen and workspaces are great places to tag. Both offer numerous meaningful use cases for context based activities and app usage.
 
-iBeacon functionality in Nexts can be turned on in the Menu. We are using <a href="http://beacon.awwapps.com" title="Open Beacon Credentials">Open Beacon Credentials</a> for specifying the beacon identity. This enables a one-tap setup process in compatible apps like Launch Here. If you like to use Nexts as a trigger in other apps, you might be interested in its plain-vanilla iBeacon identifiers. No secrects:
+iBeacon functionality in Nexts can be turned on in the Menu. We are using <a href="https://github.com/AwwApps/Open-Beacon-Credentials" title="Open Beacon Credentials">Open Beacon Credentials</a> for specifying the beacon identity. This enables a one-tap setup process in compatible apps like Launch Here. If you like to use Nexts as a trigger in other apps, you might be interested in its plain-vanilla iBeacon identifiers. No secrects:
 
 ![Nexts Open Beacon Credentials]({{ site.url }}/images/post_nexts_openbeaconcredentials.svg)
 

@@ -15,8 +15,8 @@ Here's a list of iBeacons we officially support in our apps. With these iBeacons
 * [Estimote](http://estimote.com)
 * [Radius Networks](http://www.radiusnetworks.com)
 * [Beacon Inside](http://beaconinside.com)
-* [Open Beacon Credentials](http://beacons.awwapps.com) – Any iBeacon
+* [Open Beacon Credentials](https://github.com/AwwApps/Open-Beacon-Credentials) – Any iBeacon
 
-If your iBeacon is not in this list you can still make it work by changing its ID according to our [Open Beacon Credentials guide](http://beacons.awwapps.com).
+If your iBeacon is not in this list you can still make it work by changing its ID according to our [Open Beacon Credentials guide](https://github.com/AwwApps/Open-Beacon-Credentials).
 
 Our goal is to make our apps work with as many iBeacon vendors as possible. But please understand that our capacity for testing different beacons is limited. In case you have issues making your iBeacon work, please let us know. We'll do our best to help out.
